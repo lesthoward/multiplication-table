@@ -1,0 +1,18 @@
+{
+  "name": "mutliplication-table",
+  "version": "0.1.0",
+  "description": "Dynamic multiplication table with NodeJS",
+  "main": "fileSystem.js",
+  "scripts": {
+    "test": "node fileSystem.js --numberBase=8 --terminal"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Lester Howard",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.1.1"
+  }
+}
